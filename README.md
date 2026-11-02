@@ -1,6 +1,6 @@
 # Laser Absorption Explorer
 
-![CI](https://github.com/YOUR_USERNAME/laser-absorption/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/2895773968-svg/laser-absorption/actions/workflows/ci.yml/badge.svg)](https://github.com/2895773968-svg/laser-absorption/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Tests](https://img.shields.io/badge/tests-11%20passed-brightgreen)
