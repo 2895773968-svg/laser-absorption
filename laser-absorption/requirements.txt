@@ -1,9 +1,0 @@
-# Laser Absorption Explorer —— 运行时依赖
-# 版本为开发验证版本的下限，CI 会在 Python 3.10-3.13 上做兼容性回归
-
-numpy>=2.0        # 数值计算核心（复数菲涅尔方程、广播网格、插值）
-PyYAML>=6.0       # 解析 refractiveindex.info 的 nk 数据文件
-matplotlib>=3.8   # 发表级图表（contourf 热力图、300 DPI、PDF 矢量输出）
-
-# 测试依赖
-pytest>=8.0       # 单元测试（对称性/解析对拍/物理约束/文献锚点）
